@@ -1,2 +1,2 @@
- #!/bim/bash
-chmod +111 hellod 
+ #!/bin/bash
+chmod +111 hello 
